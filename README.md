@@ -1,5 +1,3 @@
-![Programmer](https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/287910111_163428306196074_2659857891722033950_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeErJM6TlXyWv06sYQm7M50VNFoTe8UCW3E0WhN7xQJbcQ1SnHksHlKWRwb-fdTYvnuAyZD9Dr6lBhxIZ69UkQpx&_nc_ohc=2oUdq4BOGToAX_44HuT&_nc_ht=scontent.fdac155-1.fna&oh=00_AT9LRhbPS56YJYLhcNPmNR4REZ7oRGS_4Hd0lnJLc9hi7w&oe=62DF8AC9)
-
 ### Hi there 👋, I'm Mohammad Hasibul Hasan.
 #### Programmer
 
