@@ -1,16 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mohammad Hasibul Hasan</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh.</h3>
 
-![logo](https://github.com/hasibulhimu49/hasibulhimu49/blob/main/Github%20Banner.png)
+![logo](https://github.com/hasibulhimu49/hasibulhimu49/blob/main/Technology%20Banner.png)
 
 <img align="right" alt="coding" width="600" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasibulhimu49&label=Profile%20views&color=0e75b6&style=flat" alt="hasibulhimu49" /> </p>
 
+
 - 📖 I’m currently studying on **BSc in CSE at Bangladesh University of Business and Technology (BUBT).**
-- 👯 I’m looking to collaborate on **projects such as related Software Development**
+- 👯 I’m looking to collaborate on **projects such as related Software Development.**
+- 💬 Ask me about **C, C++, C#, Java, JavaScript, HTML, CSS.**
 - 📫 How to reach me **myselfhasibul@gmail.com**
 - ⚡ Fun fact **I can be the reason for your smile.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasibulhimu49&show_icons=true&locale=en" alt="hasibulhimu49" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasibulhimu49&" alt="hasibulhimu49" /></p>
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
