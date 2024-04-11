@@ -7,7 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasibulhimu49&label=Profile%20views&color=0e75b6&style=flat" alt="hasibulhimu49" /> </p>
 
+- 📖 I’m currently studying on **BSc in CSE at Bangladesh University of Business and Technology (BUBT).**
+- 👯 I’m looking to collaborate on **projects such as related Software Development**
 - 📫 How to reach me **myselfhasibul@gmail.com**
+- ⚡ Fun fact **I can be the reason for your smile.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
