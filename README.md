@@ -3,7 +3,7 @@
 
 ![logo](https://github.com/hasibulhimu49/hasibulhimu49/blob/main/Technology%20Banner.png)
 
-<img align="right" alt="coding" width="600" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasibulhimu49&label=Profile%20views&color=0e75b6&style=flat" alt="hasibulhimu49" /> </p>
 
@@ -11,6 +11,7 @@
 - 📖 I’m currently studying on **BSc in CSE at Bangladesh University of Business and Technology (BUBT).**
 - 👯 I’m looking to collaborate on **projects such as related Software Development.**
 - 💬 Ask me about **C, C++, C#, Java, JavaScript, HTML, CSS.**
+- 📝 I regularly write articles on ![](https://www.youtube.com/@HelloSmartZone)
 - 📫 How to reach me **myselfhasibul@gmail.com**
 - ⚡ Fun fact **I can be the reason for your smile.**
 
