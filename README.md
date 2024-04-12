@@ -11,7 +11,7 @@
 - 📖 I’m currently studying on **BSc in CSE at Bangladesh University of Business and Technology (BUBT).**
 - 👯 I’m looking to collaborate on **projects such as related Software Development.**
 - 💬 Ask me about **C, C++, C#, Java, JavaScript, HTML, CSS.**
-- 📝 I regularly write articles on ![](https://www.youtube.com/@HelloSmartZone)
+- 📝 I regularly write articles on ([YouTube channel]) ((https://www.youtube.com/@HelloSmartZone)).
 - 📫 How to reach me **myselfhasibul@gmail.com**
 - ⚡ Fun fact **I can be the reason for your smile.**
 
